@@ -1,0 +1,5 @@
+2023/05/31-20:53:35.030 35b0 Creating DB D:\School\embedded systems\proj1\.jxbrowser.userdata\Default\Local Storage\leveldb since it was missing.
+2023/05/31-20:53:35.036 35b0 Reusing MANIFEST D:\School\embedded systems\proj1\.jxbrowser.userdata\Default\Local Storage\leveldb/MANIFEST-000001
+2023/05/31-23:01:34.482 914 Level-0 table #5: started
+2023/05/31-23:01:34.485 914 Level-0 table #5: 25289 bytes OK
+2023/05/31-23:01:34.488 914 Delete type=0 #3
