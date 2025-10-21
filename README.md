@@ -1,4 +1,4 @@
-This repo holds all the files for each project for my Embedded Systems class at UNC Charlotte. I took this class over the summer of 2023
+This repo holds all the files for each project for my Embedded Systems class at UNC Charlotte. I took this class over the summer of 2023. I learned a lot about embedded systems programming, microcontroller peripherals, and real-time programming concepts. I had a lot of fun working on these projects.
 # Projects
 ## [Project 1: Blinking LED](./Blinky)
 Intro to Code Composer Studio and basic embedded development/debugging.
