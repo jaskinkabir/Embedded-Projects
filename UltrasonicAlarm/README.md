@@ -11,4 +11,4 @@ The main loop of the program implements a simple state machine with three states
 
 # Demonstration
 
-![Ultrasonic Alarm Demo](https://www.youtube.com/shorts/DeTFYkjo4lo)
+[![Ultrasonic Alarm Demo](https://img.youtube.com/vi/DeTFYkjo4lo/hqdefault.jpg](https://www.youtube.com/shorts/DeTFYkjo4lo)
