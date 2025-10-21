@@ -136,7 +136,7 @@ void main(void) {
         startADC();
         while (ADCCTL1 & ADCBUSY);
         adcResult = ADCMEM0;
-        if (adcResult == 255) continue;
+        if (adcResult == 255) sendByte(254);
         sendByte(adcResult);
 
     }

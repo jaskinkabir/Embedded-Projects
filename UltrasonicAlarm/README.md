@@ -9,6 +9,6 @@ While the diagram shows the trigger and ECHO signals on separate waveforms, they
 
 The main loop of the program implements a simple state machine with three states: IDLE, ARMED, and TRIGGERED. In the IDLE state, the system waits for the button press to measure the calibration distance and transition to the ARMED state. In the ARMED state, it periodically triggers distance measurements and compares them to the calibration distance. If a significant change is detected, it transitions to the TRIGGERED state, where it activates the buzzer. The system can be reset back to the IDLE state by pressing the button again.
 
-# Demonstration
+# Demonstration Video
 
 [![Ultrasonic Alarm Demo](https://img.youtube.com/vi/DeTFYkjo4lo/hqdefault.jpg)](https://www.youtube.com/shorts/DeTFYkjo4lo)
