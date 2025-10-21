@@ -1,0 +1,2 @@
+# Project Description
+This project explores GPIO control, button debouncing, and software state machine implementation on a microcontroller. The program uses the button on the development board to cycle the color of the onboard RGB LED through red, green, yellow states. The button is read through polling in the main loop, with debouncing handled via a simple state machine that detects a rising edge on the button's GPIO line.
