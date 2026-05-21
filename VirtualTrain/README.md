@@ -7,4 +7,5 @@ The movement of the train is controlled by two buttons. One button starts and st
 While the assignment defined these requirements, the design of the state machine and the implementation details were left up to me. I chose to implement two state machines. The control logic is handled by a 4-state state machine that manages the start/stop and direction of the train based on button presses. The main loop polls the button states and feeds them to the transition function. The second state machine is responsible for updating the display to show the train's current position based on the control state. It simply cycles through 12 positions in either direction when the train is running, and holds the current position when the train is stopped. The state transitions are driven by an interrupt attached to a hardware timer that fires once a second.
 
 # Demonstration
-Unfortunately, I had to delete the video demonstrating this project to free up space in my Google Drive. I wish I had it, because I remember it looking really cool.
+
+[![Virtual Train Demo](https://img.youtube.com/vi/C9knZ8awyS4/hqdefault.jpg)](https://www.youtube.com/shorts/C9knZ8awyS4)
